@@ -1,7 +1,7 @@
 inputsentence = ""
 outputsentence = ""
-input_path = "C:\Users\srive\OneDrive\Documents\whitehat\c99pros.txt"
-output_path = "C:\Users\srive\OneDrive\Documents\whitehat\c99prod.txt"
+input_path = "c99pros.txt"
+output_path = "c99prod.txt"
 def read(path):
     file = open(path,"r")
     inputsentence = file.read()
